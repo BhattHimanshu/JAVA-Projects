@@ -1,0 +1,16 @@
+first we build one class called Acquarium extending Frame
+which firstly cointain one main method and -one Constructor 
+main method only work is to call the Acquarium constructor .
+
+
+Second we add something called event class and use its event catcher , some complex thing to closde the window .
+
+THen we try to load the fishes and Background , we store these fish and Background in Objects of Image Class.
+
+mne kuch extra variable which i dont understand lik eimagebuffer , double buffering ,taking another thread kuch ni liye , for sake of experimenting purpose , ki what lacks without them .
+
+
+so then uske baad i made a run method , which have two nested for loop 
+
+inside one for loop we have run it number of fishes times 
+and make rectangle named edges of 
