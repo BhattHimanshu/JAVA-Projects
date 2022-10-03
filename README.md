@@ -1,9 +1,10 @@
 # JAVA-Projects
 These are the Projects , i have build to clear and present my Concepts in Java . The Projects uses Pure Java concepts in such way , it clears Basic of OOPS and multithreading
 
-#Concepts Used 
+# Concepts Used 
 JAVA FRAME class , Multithreading , Java Grpahic Libraray , JAVA EVENT class
-This is a original Fish Acquarium Project ,a multithreaded
+# About Project
+This is a original Fish Acquarium Project which is a proof to my comfort and handeling ,a multithreaded
 aquarium where the fish actually swim around and bounce
 off the walls. i have create a dozen fish objects and
 turn them loose in the aquarium, where they're going to do
